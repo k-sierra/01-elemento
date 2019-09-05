@@ -1,6 +1,6 @@
-# fundamentos de programacion
+# Fundamentos de programacion
 
-## elemtos de html
+## Elemetos de html
 
 contiene ejemplode uso de los elementos **HTML** basicos:
 
