@@ -1,6 +1,6 @@
-#fundamentos de programacion
+# fundamentos de programacion
 
-##elemtos de html
+## elemtos de html
 
 contiene ejemplode uso de los elementos **HTML** basicos:
 
@@ -8,4 +8,3 @@ contiene ejemplode uso de los elementos **HTML** basicos:
 - Parrafos
 - Listas
 - Tablas
-- Formularios
